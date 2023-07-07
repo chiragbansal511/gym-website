@@ -1,0 +1,515 @@
+body {
+    background-color: black;
+}
+
+#subsec1 {
+    border: 1px solid black;
+    height: 740px;
+    background-image: url(1108004.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.logo {
+    height: 10%;
+    width: 10%;
+}
+
+#sec1insta {
+    display: inline-block;
+    float: right;
+}
+
+.mainmenu {
+    float: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    color: white;
+    font-weight: 100;
+}
+
+.menulist {
+    border: 1px solid white;
+    height: 60px;
+    width: 140%;
+    margin-bottom: 20%;
+    background-image: url(https://media-public.canva.com/ZcORY/MAEGPvZcORY/1/tl.png);
+    background-position: center;
+    background-size: 385px;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.toptext {
+    margin-top: -30px;
+}
+
+#mainlist {
+    height: 380px;
+    width: 35%;
+    display: inline-block;
+    text-align: left;
+    margin-left: -85px;
+    margin-top: 0px
+}
+
+#sec1name {
+    color: white;
+    width: 710px;
+    margin: auto;
+    font-size: 100px;
+    margin-top: 55px;
+    /* display: inline-block; */
+}
+
+#sec1instalogo {
+    height: 45px;
+    width: 50px;
+}
+
+#sec1tagline {
+    color: white;
+    width: 750px;
+    font-size: 45px;
+    margin: auto;
+    margin-left: 550px;
+}
+
+#sec1insta {
+    /* border: 2px solid white ; */
+    width: 350px;
+    height: 130px;
+    float: right;
+    margin-top: 310px;
+    background-color: #CBAA03;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    border-top-left-radius: 80px;
+}
+
+#subsec2 {
+    height: 740px;
+    /* border: 1px solid white ; */
+    background-image: url(img2.jpg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
+.sec2logos {
+    /* border: 2px solid white ; */
+    height: 140px;
+    width: 140px;
+    border-radius: 5px;
+}
+
+#midboxes {
+    /* border: 1px solid white; */
+    height: 300px;
+    width: 300px;
+    /* float: right; */
+    /* margin-right: 100px; */
+    /* margin-top: 50px; */
+    display: inline-block;
+}
+
+#subdiv2,
+#subdiv4 {
+    float: left;
+}
+
+#subdiv6,
+#subdiv8 {
+    float: right;
+}
+
+#subdiv2,
+#subdiv8 {
+    margin-bottom: 14px;
+}
+
+.subdivs {
+    /* border: 1px solid white; */
+    height: 140px;
+    width: 140px;
+    display: inline-block;
+    background-color: #CBAA03;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.sec2divs {
+    display: inline-block;
+}
+
+#sec2main {
+    height: 650px;
+    width: 650px;
+    /* border: 1px solid white; */
+    text-align: center;
+    margin: 45px 75px;
+    float: right;
+}
+
+#subdiv1 {
+    position: relative;
+    top: 95px;
+    left: 65px;
+    font-size: 20px;
+    color: white;
+}
+
+#subdiv3 {
+    position: relative;
+    top: 465px;
+    left: -75px;
+    font-size: 20px;
+    color: white;
+}
+
+#subdiv5 {
+    position: relative;
+    top: 75px;
+    right: -80px;
+    color: white;
+    font-size: 24px;
+}
+
+
+#subdiv7 {
+    position: relative;
+    top: 465px;
+    right: 70px;
+    font-size: 20px;
+    color: white;
+}
+
+#subdiv2 {
+    background-image: url(web3instructor.jpg);
+    background-position: center;
+    position: relative;
+}
+
+#subdiv8 {
+    background-image: url(web3member.jpg);
+    background-position: center;
+    position: relative;
+}
+
+#subdiv4 {
+    background-image: url(web3equipments.jpg);
+    background-position: center;
+    position: relative;
+}
+
+#subdiv6 {
+    background-image: url(web3freetrial.jpg);
+    background-position: center;
+    position: relative;
+}
+
+#sideline1 {
+    /* border: 2px solid white; */
+    height: 45px;
+    width: 630px;
+    position: relative;
+    left: 1041px;
+    top: -2px;
+    background-color: #CBAA03;
+    border-bottom-left-radius: 30px;
+}
+
+#sideline2 {
+    /* border: 2px solid white; */
+    position: relative;
+    top: -3px;
+    left: 1626px;
+    width: 45px;
+    height: 650px;
+    background-color: #CBAA03;
+    border-bottom-left-radius: 30px;
+
+}
+
+#gymcommon {
+    /* border: 2px solid white; */
+    color: white;
+    position: absolute;
+    top: 840px;
+    left: 965px;
+    ;
+    font-size: 50px;
+    background-color: #CBAA03;
+    border-radius: 20px;
+    font-weight: bolder;
+
+}
+
+#followus {
+    color: white;
+}
+
+#subsec3 {
+    /* border: 1px solid white; */
+    background-image: url(web3joinforfree.jpg);
+    background-repeat: no-repeat;
+    height: 721px;
+    background-size: 80%;
+    background-position: right;
+    margin-top: -55px;
+
+}
+
+#form {
+    border-bottom: 3px solid white;
+    height: 695px;
+    width: 400px;
+    background-image: url(background.jpg);
+    /* background-repeat: no-repeat;
+    background-size: 100%; */
+}
+
+label {
+    color: #ffd70e;
+
+}
+
+.input {
+    background-color: #545151;
+}
+
+#formelements3 {
+    /* border: 1px solid white ; */
+    width: 400px;
+    height: 210px;
+    background-color: #CBAA03;
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    position: absolute;
+    top: 1968px;
+    border-radius: 25px;
+}
+
+#formelements1 {
+    font-size: 45px;
+    text-decoration: underline solid #ffd70e;
+    color: #ffd70e;
+}
+
+label {
+    font-size: xx-large;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+.input {
+    height: 40px;
+    width: 350px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+#submit {
+    float: right;
+    width: 130px;
+    height: 55px;
+    background-color: #ffd70e;
+    margin: 7px 25px;
+    border-radius: 50px;
+    font-size: x-large;
+    font-weight: bolder;
+    color: white;
+    border: #CBAA03;
+    cursor: pointer;
+}
+
+.menulist:hover {
+    height: 90px;
+    width: 200%;
+    transition-duration: .2s;
+}
+
+#sec1insta:hover {
+    height: 150px;
+    width: 400px;
+    margin-top: 290px;
+    font-size: 50px;
+    transition-duration: .2s;
+    text-decoration: underline;
+    background-color: #ffd70e;
+    transition-duration: .2s;
+}
+
+.subdivs:hover {
+    height: 200px;
+    width: 200px;
+    text-decoration: underline;
+    background-color: #ffd70e;
+    transition-duration: .15s;
+    font-weight: bold;
+}
+
+#submit:hover {
+    color: #ffd70e;
+    height: 60px;
+    width: 150px;
+    background-color: white;
+    transition-duration: .2s;
+    text-decoration: underline;
+}
+
+#subsec5 {
+    color: white;
+}
+
+#subsec4 {
+    /* border: 1px solid white; */
+    height: 720px;
+    background-image: url(web3sec4background.webp);
+    background-size: 99%;
+    margin-top: -25px;
+}
+
+#subdiv22 {
+    /* border: 2px solid white ; */
+    width: 400px;
+    height: 90px;
+    font-size: 55px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border-radius: 25px;
+}
+
+#subdiv11 {
+    /* border: 2px solid white ; */
+    position: absolute;
+    top: 2245px;
+    margin: auto;
+    width: 250px;
+    height: 90px;
+    left: 610px;
+    background-color: #CBAA03;
+    border-radius: 25px;
+}
+
+#topline {
+    height: 45px;
+    width: 835px;
+    /* border: 1px solid white; */
+    position: absolute;
+    left: 843px;
+    background-color: #CBAA03;
+    border-top-left-radius:30px ;
+    border-bottom-left-radius: 30px;
+}
+
+#sec4div2{
+    /* border: 1px solid white; */
+    display: inline-block;
+    top: 270px;
+    left: 0px;
+    height: 250px;
+    width: 1500px;
+    position: relative;
+}
+.contentbox{
+    /* border : 1px solid white; */
+   height: 250px;
+   width: 250px;
+   float: left;
+   margin-right: 0px;
+   position: relative;
+   background-color: aqua;
+   /* background-image: url(web3sec4boxbackground.jpg); */
+   background-position: center;
+   background-size: 100%;
+   font-size: 30px;
+   color: white;
+   text-align: center;
+   font-weight: bolder;
+   border-radius: 25px;
+   /* text-decoration: underline; */
+   
+}
+.outline{
+height: 200px;
+width: 200px;
+/* border: 1px solid white; */
+/* display: inline-block; */
+float: left;
+position: relative;
+left:150px;
+top: -40px;
+background-color: #CBAA03 ;
+border-radius: 25px;
+}
+
+#contentbox1{
+    background-image: url(14,-Fitness-hp-Backgrounds-Ultra-Hd-Gym-Wallpaper-4k,-Hd-.jpg);
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-size: 100%;
+    /* object-fit: cover; */
+}
+
+#contentbox2{
+    background-image: url(images.jpg);
+    background-position: center;
+    /* object-fit: cover; */
+}
+
+#contentbox3{
+    background-image: url(web3sec4boxbackground.jpg);
+    background-position: center;
+    /* object-fit: cover; */
+}
+
+.contentbox:hover{
+height: 230px;
+width: 230px;
+font-size: 33px;
+transition-duration: .125s;
+text-decoration: underline;
+filter: brightness(.1);
+}
+
+#subsec5{
+    height: 300px;
+    background-image: url(web3lastsec.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#sec5div1{
+    font-size: xx-large;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    margin-left: 180px;
+    position: relative;
+    top: 70px;
+}
+
+#sec5div2{
+    font-size: x-large;
+    margin-left: 180px;
+    margin-top: 100px;
+}
